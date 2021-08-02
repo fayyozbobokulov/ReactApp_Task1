@@ -1,0 +1,11 @@
+{
+  "name": "reqctapp_task1",
+  "version": "1.0.0",
+  "description": "to fulfill the the needs of rs schools requirements",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fayyoz Bobokulov",
+  "license": "MIT"
+}
